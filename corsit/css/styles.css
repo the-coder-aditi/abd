@@ -1,0 +1,92 @@
+body{
+background-color: #6c5b7b;
+margin: 0;
+text-align: center;
+position: relative;
+}
+.top{
+
+  position: relative;
+}
+.logo{
+  position: absolute;
+
+  left: 0;
+
+  height: 100px;
+  width: 100px;
+
+
+}
+
+
+
+
+h1{
+
+  color: #ecf4f3;
+  font-size: 4.7rem;
+  padding-top: 120px;
+font-family: 'Lora', serif;
+
+
+}
+h2{
+    color: #94b4a4;
+    font-size: 2.4rem;
+    font-family: 'Merriweather', serif;
+
+
+
+
+}
+.para-1{
+  color: #6c5b7b;
+  width: 50%;
+  margin: auto;
+  font-size: 1.2rem;
+  line-height: 2;
+  padding-bottom: 50px;
+
+}
+.chip{
+  height: 200px;
+  width: 200px;
+  padding-top: 30px;
+  float: left;
+  margin-right: 30px;
+
+}
+.intro{
+  font-size: 2rem;
+  color: #311d3f;
+  font-family: 'Dancing Script', cursive;
+}
+.robo-image{
+  height: 300px;
+  width: 300px;
+
+
+}
+.definition{
+  padding-top: 50px;
+
+  background-color: #c3bef0;
+  height: 600px;
+  width: 100%;
+}
+.legend{
+  height: 600px;
+  width: 100%;
+  color: #6c5b7b;
+
+}
+.leg{
+  font-size: 3rem;
+  padding-top: 100px;
+}
+.kiran{
+  height: 300px;
+  width: 300px;
+
+}
